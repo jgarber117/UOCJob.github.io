@@ -1,0 +1,92 @@
+{
+  "configVersion": 1,
+  "timestamp": 1560350231086,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/1.249bb4e63ab0afdabb2f.js",
+        "/10.37fe5f68d0fed1a4dea6.js",
+        "/11.40602f76e2d7644c87e9.js",
+        "/5.381c39c33924b9701ac0.js",
+        "/6.7c82e65119df4d66d5c0.js",
+        "/7.9a7818b341ca87329efc.js",
+        "/8.881e836cfd1b7ede03eb.js",
+        "/9.133e7aa1f3ecd8bbc05b.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.1b5be3f5bead0332f32b.js",
+        "/polyfills.b4a18da23fde0fd1392c.js",
+        "/runtime.c3c1bd8e30600e632eca.js",
+        "/styles.0e6b1a2f858e38b58dab.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/perfil.png",
+        "/assets/img/uoc_logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/1.249bb4e63ab0afdabb2f.js": "e0e890ed3b2ca2e302a41e9ef6942fd0e4930bde",
+    "/10.37fe5f68d0fed1a4dea6.js": "48903fdc9ab49611bd856afa0f60087523558387",
+    "/11.40602f76e2d7644c87e9.js": "e8022c4aac5b7087794636445fe22e921a8cbec8",
+    "/5.381c39c33924b9701ac0.js": "c3f2011dee8deb2a7854a016132299ed5a1b86b1",
+    "/6.7c82e65119df4d66d5c0.js": "38aac639a4b0e7f9eeb2965feb7466b0d7c0846f",
+    "/7.9a7818b341ca87329efc.js": "62c9da88882f4f9d309a7f747e604d0dcb1d2241",
+    "/8.881e836cfd1b7ede03eb.js": "2932ad384ca18495e0788e547a534504ef917039",
+    "/9.133e7aa1f3ecd8bbc05b.js": "86d4e57c093cde16e486095394755880a513ede0",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/perfil.png": "c34d68aa614df190342bf4ccfb05fabce3561034",
+    "/assets/img/uoc_logo.png": "a8268228316a687fc11a0ecbedb2507aedcccf39",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "f8297ff0877674f9770c370289866830dde36e69",
+    "/main.1b5be3f5bead0332f32b.js": "9c509b8658239d3cfa437c819bbde2c9e16a67da",
+    "/polyfills.b4a18da23fde0fd1392c.js": "66795e05235a55556f28ed30880e228cdab11b48",
+    "/runtime.c3c1bd8e30600e632eca.js": "2c15939413ab9c5a162173f956cc62fc2b5801e3",
+    "/styles.0e6b1a2f858e38b58dab.css": "948f3b825741f8f3e6dd1c733dfa58cb05ce84ee"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
